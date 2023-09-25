@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## NextJS with local json file.
 
--[x] Fetching Data
--[] Show single data
--[] Searching data
--[] Sorting data
+- [x] Fetching Data
+- [] Show single data
+- [] Searching data
+- [] Sorting data
